@@ -8,7 +8,7 @@ A clean, fast GitHub profile search app — look up any developer, explore their
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- replace with your deployed link -->
+[View Live Demo](https://githubprofilef.netlify.app/)
 
 ## 📸 Preview
 
